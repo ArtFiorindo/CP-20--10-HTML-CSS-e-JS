@@ -1,0 +1,12 @@
+p{
+    color: blue;
+}
+img{
+    width: 450px;
+}
+button{
+    background-color: purple;
+    color: aliceblue;
+    border-radius: 5px;
+    border: solid plum;
+}
